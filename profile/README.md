@@ -21,5 +21,26 @@
 ---
 
 <p align="center">
-  Refact is a powerful AI coding assistant that combines completion, refactoring, chat, and more. 
+Refact is a powerful AI coding assistant that combines completion, refactoring, chat, and more. Get work done faster with context-aware code completion, integrated in-IDE chat, and a powerful Toolbox — all tailored to your needs. Use it on your dedicated self-hosted server or in the cloud.
 </p>
+
+## Learn more about Refact.ai
+
+[Refact.ai Docs 📚](https://docs.refact.ai/): Access comprehensive guidance on features and functionalities.
+
+[Blog 📝](https://refact.ai/blog/): Explore tutorials and articles on best practices and use cases.
+
+[YouTube Channel 📺:](https://www.youtube.com/@refactai) Watch livestreams and video content showcasing our platform.
+
+[Marketplaces Review 💻:](https://marketplace.visualstudio.com/items?itemName=smallcloud.codify) Discover user experiences and insights from community projects.
+
+[Join Our Community 🤝:](https://refact.ai/community/) Connect with fellow developers and share your experiences as we build together!
+
+## Show us your Community Support!
+
+[Star 🌟 the Main Refact.ai Repo 🖥️:](https://github.com/smallcloudai/refact) Show your support and stay updated with our latest developments.
+
+[Follow Us on Socials 🐤:](https://www.linkedin.com/company/refactai/) Stay in the loop with news, updates, and insights from Refact.ai.
+
+Apply to Refact.ai Through Our Careers Page 🧑‍💻: [We’re HIRING!](https://refact.ai/careers/) Join our team and help shape the future of programming!
+
