@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-Refact.ai is an open-source AI Agent that handles engineering tasks end-to-end. It deeply understands your codebases and integrates with your tools, databases, and browsers to automate complex, multi-step tasks.
+Refact.ai - #1 open-source AI Agent in SWE-bench Verified that handles engineering tasks end to end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. It deeply understands your codebases and integrates with your tools, databases, and browsers to automate complex, multi-step tasks.
 </p>
 
 ## Learn more about Refact.ai
